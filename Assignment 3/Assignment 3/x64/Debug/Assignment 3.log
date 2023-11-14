@@ -1,0 +1,8 @@
+﻿  Assignment 3.cpp
+  Queue.cpp
+  Generating Code...
+C:\Users\kenny\OneDrive\Documents\CS 303\Assignment 3\Assignment 3\Queue.cpp(52): warning C4715: 'Queue<int>::queueFront': not all control paths return a value
+C:\Users\kenny\OneDrive\Documents\CS 303\Assignment 3\Assignment 3\Queue.cpp(52): warning C4715: 'Queue<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::queueFront': not all control paths return a value
+C:\Users\kenny\OneDrive\Documents\CS 303\Assignment 3\Assignment 3\Queue.cpp(52): warning C4715: 'Queue<double>::queueFront': not all control paths return a value
+C:\Users\kenny\OneDrive\Documents\CS 303\Assignment 3\Assignment 3\Queue.cpp(52): warning C4715: 'Queue<char>::queueFront': not all control paths return a value
+  Assignment 3.vcxproj -> C:\Users\kenny\OneDrive\Documents\CS 303\Assignment 3\x64\Debug\Assignment 3.exe
